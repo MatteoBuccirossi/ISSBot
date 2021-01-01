@@ -1,0 +1,12 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "a twitter bot",
+  "main": "twitterBot.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "twit": "^2.2.11"
+  }
+}
