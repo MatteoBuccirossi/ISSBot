@@ -6,3 +6,5 @@ I'm using node for this project, and the twit package; for the space station dat
 ISS Api: http://open-notify.org/
 
 Working example: https://twitter.com/ISStracker1
+
+This project is licensed under the terms of the MIT license.
